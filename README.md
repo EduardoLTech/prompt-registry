@@ -28,7 +28,7 @@ _Nenhum prompt cadastrado ainda._
 
 Pipelines de CI/CD, containers, orquestração, infraestrutura como código, observabilidade, SRE e segurança operacional.
 
-_Nenhum prompt cadastrado ainda._
+- [auditar-dockerfile-python](./devops/auditar-dockerfile-python/) — Analisa um Dockerfile Python identificando problemas de segurança e performance, entregando lista priorizada de recomendações e versão corrigida do arquivo.
 
 ### [Produtividade](./produtividade/)
 
@@ -45,6 +45,12 @@ _Nenhum prompt cadastrado ainda._
 ### [Criação de Conteúdo](./criacao-conteudo/)
 
 Roteiros, artigos, posts para redes sociais, material didático e copy de divulgação.
+
+_Nenhum prompt cadastrado ainda._
+
+### [Férias](./ferias/)
+
+Planejamento de viagens e lazer: roteiros, orçamentos de viagem, escolha de destinos, hospedagem e atividades.
 
 _Nenhum prompt cadastrado ainda._
 

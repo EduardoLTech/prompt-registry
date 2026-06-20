@@ -21,4 +21,4 @@ Entram aqui prompts relacionados a:
 
 ## Prompts
 
-_Nenhum prompt cadastrado ainda._
+- [auditar-dockerfile-python](./auditar-dockerfile-python/) — Analisa um Dockerfile Python identificando problemas de segurança e performance, entregando lista priorizada de recomendações e versão corrigida do arquivo.
